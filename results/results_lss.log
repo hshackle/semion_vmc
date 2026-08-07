@@ -1,0 +1,31 @@
+[semion] building H (dim 1270752) ...
+[semion] H built: nnz=19363840  (3s)
+[semion] 9954 translation orbits  (5s)
+[semion] sector (0,0): dim 19902 (33s)
+[semion] sector (0,0): |Hk - Hk^dag|_max = 1.11e-15 (81s)
+[semion] sector (0,0): saved 19902 eigenvalues (2768s)
+[semion] sector (0,1): dim 19840 (2816s)
+[semion] sector (0,1): |Hk - Hk^dag|_max = 1.33e-15 (2866s)
+[semion] sector (0,1): saved 19840 eigenvalues (4248s)
+[semion] sector (1,2): dim 19840 (4260s)
+[semion] sector (1,2): |Hk - Hk^dag|_max = 1.57e-15 (4274s)
+[semion] sector (1,2): saved 19840 eigenvalues (5623s)
+[semion] done in 5623s
+[hcb] building H (dim 1663740) ...
+[hcb] H built: nnz=25621596  (2s)
+[hcb] 20540 translation orbits  (7s)
+[hcb] sector (0,0): dim 20540 (38s)
+[hcb] sector (0,0): |Hk - Hk^dag|_max = 0.00e+00 (53s)
+[hcb] building H (dim 1663740) ...
+[hcb] H built: nnz=25621596  (6s)
+[hcb] 20540 translation orbits  (10s)
+[hcb] sector (0,0): dim 20540 (45s)
+[hcb] sector (0,0): |Hk - Hk^dag|_max = 0.00e+00 (62s)
+[hcb] sector (0,0): saved 20540 eigenvalues (1294s)
+[hcb] sector (0,1): dim 20540 (1323s)
+[hcb] sector (0,1): |Hk - Hk^dag|_max = 3.51e-16 (1338s)
+[hcb] sector (0,1): saved 20540 eigenvalues (2257s)
+[hcb] sector (1,2): dim 20540 (2285s)
+[hcb] sector (1,2): |Hk - Hk^dag|_max = 1.02e-15 (2299s)
+[hcb] sector (1,2): saved 20540 eigenvalues (3276s)
+[hcb] done in 3276s
